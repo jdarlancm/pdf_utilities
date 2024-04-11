@@ -1,0 +1,17 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+09/04/2024  -   AUTO-ATENDIMENTO     -  10:13:17
+4687004687
+       COMPROVANTE DE PAGAMENTO ELETRONICO
+PAGADOR: NOME DO PAGADOR
+CNPJ: 00.000.000/0000-00
+------------------------------------------------
+FAVORECIDO: NOME DO FAVORECIDO
+CPF: 000.000.000-00
+AGENCIA: 0000-0 - MOSSORO                     RN
+CONTA:                                 000.000-0
+DATA DE PAGAMENTO:                    04/04/2024
+VALOR CREDITADO (R$):                   9.999,99
+------------------------------------------------
+EVENTO: SALARIO ORD EMPREGADOR
+------------------------------------------------
+AUTENTICACAO SISBB: C.5C4.4DB.CB8.64F.F55
