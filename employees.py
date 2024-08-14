@@ -9,7 +9,7 @@ def found_codigo_by_nome(employee_name):
         nome_completo = remover_caracteres_especiais_e_acentos(row['NOME COMPLETO'].strip().upper())
         temp = nome_completo.split(" ")
         first_last_name = temp[0]  + " " + temp[-1]
-        if first_last_name == employee_name.upper():
+        if first_last_name == remover_caracteres_especiais_e_acentos(employee_name).upper():
             codigo = row['CODIGO']
             codigo_com_zeros = codigo.zfill(3)
             return codigo_com_zeros
